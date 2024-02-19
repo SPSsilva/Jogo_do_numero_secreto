@@ -1,2 +1,2 @@
 # ONE
- Códigos usados durante o programa
+ Jogo feito em JavaScript
